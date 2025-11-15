@@ -1,7 +1,10 @@
-# Archivos de entorno
+# Environment files
 .env
 .env.local
 .env.*.local
+
+# Security certificates
+backend/src/main/resources/certs
 
 # IDE
 .vscode/
