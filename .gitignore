@@ -1,0 +1,21 @@
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Spring
+target/
+*.tmp
+
+# Angular
+dist/
+node_modules/
