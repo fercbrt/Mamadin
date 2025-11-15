@@ -5,6 +5,7 @@ Welcome to Mamadin, your workout plannifier.
 ## Project structure and components
 
 - `database/` - SQL Scripts for database intialization
+- `docker-compose.yml` - Docker Compose file to start the database service
 
 ## Build
 
